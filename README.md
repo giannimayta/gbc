@@ -8,4 +8,5 @@
 [link text](comp1238.md)
 
 ## Schedule 
-/ Markdown 
+- Monday
+- - Tuesday  
