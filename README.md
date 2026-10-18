@@ -8,5 +8,17 @@
 [link text](comp1238.md)
 
 ## Schedule 
-- Monday
-- - Tuesday  
+- **Monday**
+  - 12:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
+  - 2:00 - [COMP1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/514711)
+  - 4:00 - [COMP1238 - Intro to Data Mangmnt](https://learn.georgebrown.ca/d2l/home/513886)
+- **Tuesday**
+  - 8:00 - [COMP1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/514711)
+  - 10:00 - [MATH1162 - Math for Comptuter Technology](https://learn.georgebrown.ca/d2l/home/508263)
+  - 6:00 - [COMP1234 - Intro to Web Development](https://learn.georgebrown.ca/d2l/home/516630)
+- **Thursday**
+  - 12:00 - [COMP1234 - Intro to Web Development](https://learn.georgebrown.ca/d2l/home/516630)
+  - 2:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
+  - 5:00 - [COMP1238 - Intro to Data Mangmnt](https://learn.georgebrown.ca/d2l/home/513886)
+- **Friday**
+  - 2:00 - [MATH1162 - Math for Comptuter Technology](https://learn.georgebrown.ca/d2l/home/508263)
